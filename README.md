@@ -17,4 +17,6 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning java and spring...
 - 🌱 I'm currently learning and sharing on [my blog](https://www.idream68.top), welcome...
 
-![](https://github-readme-stats.vercel.app/api?username=idream68)
+<img src="https://github-readme-stats.vercel.app/api?username=idream68&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
+<img src="https://github-profile-trophy.vercel.app/?username=idream68&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
+
